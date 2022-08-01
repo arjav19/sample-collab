@@ -8,5 +8,3 @@ Hi there
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjav19)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arjav19&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjav19&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/arjav19/github-readme-stats)
